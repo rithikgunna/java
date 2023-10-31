@@ -40,5 +40,4 @@ public class DynamicMethodDispatchExample {
     }
 }
 //In this example, we create objects of different classes and assign them to a reference variable of type Animal. When the makeSound method is called on each object, the method executed is determined at runtime based on the actual type of the object, demonstrating dynamic method dispatch.
-
 //Dynamic method dispatch allows for more flexible and extensible code because it enables you to work with objects of different derived classes through a common base class reference.
